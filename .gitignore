@@ -3,3 +3,4 @@
 # yelp dataset은 무시
 Chapter3_Basic_NeuralNet/data/
 Chapter4_FFNN_for_NLP/data/
+Chapter5_Words_And_TypeEmbedding/glove100d/
